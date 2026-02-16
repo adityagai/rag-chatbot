@@ -28,4 +28,5 @@ uploads/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.dbsetup.env
+setup.env
